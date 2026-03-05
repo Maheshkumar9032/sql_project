@@ -70,5 +70,6 @@ limit 10;
 ## The breakdown of the top data analyst jobs
 *The analysis of top-paying Data Analyst roles shows that the highest salaries are associated with senior and leadership positions such as Principal Data Analyst and Director of Analytics. Remote positions also remain highly competitive, with many roles offering salaries above $180K. The dataset also highlights how specialization and leadership responsibilities significantly impact earning potential in data analytics careers.*
 # What I learned
+I learned
 
 # Conclusions
